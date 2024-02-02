@@ -1,2 +1,2 @@
 # webpage-Tribute-HTML-CSS
-Tribute written in CSS-HTML
+Tribute written in HTML-CSS
